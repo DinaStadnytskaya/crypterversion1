@@ -1,0 +1,229 @@
+{
+  "db": {
+    "followers": [
+      {
+        "artobjects": [
+          "./img/followers/items/additem1.png",
+          "./img/followers/items/additem2.png",
+          "./img/followers/items/additem3.png",
+          "./img/followers/items/additem4.png"
+        ],
+        "followers": "161",
+        "image": "./img/followers/subscribers/01.png",
+        "name": "Sally Fadel"
+      },
+      {
+        "artobjects": [
+          "./img/followers/items/additem5.png",
+          "./img/followers/items/additem6.png",
+          "./img/followers/items/additem7.png",
+          "./img/followers/items/additem8.png"
+        ],
+        "followers": "215",
+        "image": "./img/followers/subscribers/02.png",
+        "name": "Aniya Harber"
+      },
+      {
+        "artobjects": [
+          "./img/followers/items/additem9.png",
+          "./img/followers/items/additem10.png",
+          "./img/followers/items/additem11.png",
+          "./img/followers/items/additem12.png"
+        ],
+        "followers": "161",
+        "image": "./img/followers/subscribers/03.png",
+        "name": "Edwardo Bea"
+      },
+      {
+        "artobjects": [
+          "./img/followers/items/additem13.png",
+          "./img/followers/items/additem14.png",
+          "./img/followers/items/additem15.png",
+          "./img/followers/items/additem16.png"
+        ],
+        "followers": "645",
+        "image": "./img/followers/subscribers/04.png",
+        "name": "Reymundo"
+      },
+      {
+        "artobjects": [
+          "./img/followers/items/additem13.png",
+          "./img/followers/items/additem14.png",
+          "./img/followers/items/additem15.png",
+          "./img/followers/items/additem16.png"
+        ],
+        "followers": "645",
+        "image": "./img/followers/subscribers/04.png",
+        "name": "Reymundo"
+      },
+      {
+        "artobjects": [
+          "./img/followers/items/additem13.png",
+          "./img/followers/items/additem14.png",
+          "./img/followers/items/additem15.png",
+          "./img/followers/items/additem16.png"
+        ],
+        "followers": "645",
+        "image": "./img/followers/subscribers/04.png",
+        "name": "Reymundo"
+      },
+      {
+        "artobjects": [
+          "./img/followers/items/additem16.png",
+          "./img/followers/items/additem17.png",
+          "./img/followers/items/additem18.png",
+          "./img/followers/items/additem19.png"
+        ],
+        "followers": "645",
+        "image": "./img/followers/subscribers/04.png",
+        "name": "Reymundo"
+      }
+    ],
+    "users": {
+      "0": {
+        "email": "darknaya@outlook.com",
+        "login": "January",
+        "password": "12345678",
+        "photo": "./../img/users/user1.jpg"
+      },
+      "1": {
+        "email": "darknaya@outlook.com",
+        "login": "February",
+        "password": "12345678",
+        "photo": "./../img/users/user2.jfif"
+      },
+      "2": {
+        "email": "darkn@outlook.com",
+        "login": "March",
+        "password": "12345678",
+        "photo": "./../img/users/user3.jfif"
+      },
+      "3": {
+        "email": "darknaya@outlook.ua",
+        "login": "April",
+        "password": "12345678",
+        "photo": "./../img/users/user4.png"
+      },
+      "4": {
+        "email": "aya@outlook.com",
+        "login": "May",
+        "password": "12345678",
+        "photo": "./../img/users/user5.png"
+      },
+      "-NJ5HJjbJ0tN2caqydkn": {
+        "email": "m@gmail.com",
+        "login": "mary",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJ5ISu46N3DzqtWNtfq": {
+        "email": "gortinskaad@gmail.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJ5IzOHuEgJpO26kDpB": {
+        "email": "gortinskaad@gmail.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJ5LEYIweYzFqzS7Bl9": {
+        "email": "ggngn@fnnfnf",
+        "login": "fvdfdbfbd",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJ5M7goMqH1wtdeAuz2": {
+        "email": "darknaya@outlook.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJK88wXlA01vslgjgEt": {
+        "email": "gortinskaad@gmail.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJKB2XNW7s_MN2aCOm9": {
+        "email": "gortinskaad@gmail.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJKg2xI_f1V1mrP50Ig": {
+        "email": "gortinskaad@gmail.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJX5SGGWL9shbZxyv1e": {
+        "email": "darknaya@outlook.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJXJnh0JNRZYEdNRk_v": {
+        "email": "darknaya@outlook.com",
+        "login": "dina",
+        "password": "11223344",
+        "photo": ""
+      },
+      "-NJXKA8PD9N7_1TTZc8o": {
+        "email": "darknaya@outlook.com",
+        "login": " c c ",
+        "password": "v c c v",
+        "photo": "C:\\fakepath\\cats.mp4"
+      },
+      "-NJZziftjuKOpaqzu29v": {
+        "email": "darknaya@outlook.com",
+        "login": "Dina_S",
+        "password": "lihohipoh",
+        "photo": "C:\\fakepath\\user.png"
+      },
+      "-NJfRLUhU08dQnpxIW2Z": {
+        "email": "darknaya@outlook.com",
+        "login": "c c",
+        "password": "v c c v",
+        "photo": ""
+      },
+      "-NJjX7bhg5vTSx7n3dIF": {
+        "email": "gortinskaad@gmail.com",
+        "login": "Dina_S",
+        "password": "123445688iu",
+        "photo": ""
+      },
+      "-NJjXgvQ7nA1y_TAQFP1": {
+        "email": "",
+        "login": "Dina_S",
+        "password": "123445688iu",
+        "photo": ""
+      },
+      "-NJjyo6SLXsy8HrSzsKg": {
+        "email": "gortinskaad@gmail.com",
+        "login": "Dina_S",
+        "password": "ZE4aK8mvYRfe4wb",
+        "photo": ""
+      },
+      "-NJk-0WPai7la4AGcjKZ": {
+        "email": "",
+        "login": "Dina_S",
+        "password": "123445688iu",
+        "photo": ""
+      },
+      "-NJk-Y-Lw3QeNeCpLjfZ": {
+        "email": "",
+        "login": "c c",
+        "password": "v c c v",
+        "photo": ""
+      },
+      "-NJkrhwXRebgWi6M5Dkl": {
+        "email": "",
+        "login": "c c",
+        "password": "v c c v",
+        "photo": ""
+      }
+    }
+  }
+}

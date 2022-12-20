@@ -1,0 +1,79 @@
+[
+   {
+      "artobjects": [
+         "./img/additems/additem1.png",
+         "./img/additems/additem2.png",
+         "./img/additems/additem3.png",
+         "./img/additems/additem4.png"
+      ],
+      "followers": "161",
+      "image": "./img/followers/subscribers/01.png",
+      "name": "Sally Fadel"
+   },
+   {
+      "artobjects": [
+         "./img/additems/additem5.png",
+         "./img/additems/additem6.png",
+         "./img/additems/additem7.png",
+         "./img/additems/additem8.png"
+      ],
+      "followers": "215",
+      "image": "./img/followers/subscribers/02.png",
+      "name": "Aniya Harber"
+   },
+   {
+      "artobjects": [
+         "./img/additems/additem9.png",
+         "./img/additems/additem10.png",
+         "./img/additems/additem11.png",
+         "./img/additems/additem12.png"
+      ],
+      "followers": "161",
+      "image": "./img/followers/subscribers/03.png",
+      "name": "Edwardo Bea"
+   },
+   {
+      "artobjects": [
+         "./img/additems/additem13.png",
+         "./img/additems/additem14.png",
+         "./img/additems/additem15.png",
+         "./img/additems/additem16.png"
+      ],
+      "followers": "645",
+      "image": "./img/followers/subscribers/04.png",
+      "name": "Reymundo"
+   },
+   {
+      "artobjects": [
+         "./img/additems/additem13.png",
+         "./img/additems/additem14.png",
+         "./img/additems/additem15.png",
+         "./img/additems/additem16.png"
+      ],
+      "followers": "645",
+      "image": "./img/followers/subscribers/04.png",
+      "name": "Reymundo"
+   },
+   {
+      "artobjects": [
+         "./img/additems/additem13.png",
+         "./img/additems/additem14.png",
+         "./img/additems/additem15.png",
+         "./img/additems/additem16.png"
+      ],
+      "followers": "645",
+      "image": "./img/followers/subscribers/04.png",
+      "name": "Reymundo"
+   },
+   {
+      "artobjects": [
+         "./img/additems/additem16.png",
+         "./img/additems/additem17.png",
+         "./img/additems/additem18.png",
+         "./img/additems/additem19.png"
+      ],
+      "followers": "645",
+      "image": "./img/followers/subscribers/04.png",
+      "name": "Reymundo"
+   }
+]
