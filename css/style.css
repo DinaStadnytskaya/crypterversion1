@@ -8395,7 +8395,7 @@ div.owner:not(:last-child) {
   display: none;
   opacity: 0;
   position: absolute;
-  z-index: 50;
+  z-index: 500;
   top: 390px;
   left: calc(100vw - 200px - 40px);
   color: #777E90;
